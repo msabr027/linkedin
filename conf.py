@@ -8,5 +8,5 @@ logging.getLogger('scrapy').setLevel(logging.WARNING)
 logging.getLogger('selenium').setLevel(logging.WARNING)
 
 
-EMAIL = ''
-PASSWORD = ''
+EMAIL = 'mohamed@datalyticsbusiness.ca'
+PASSWORD = 'KCOVXY123'
